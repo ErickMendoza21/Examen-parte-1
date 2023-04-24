@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contenedor {
+    background: #808080;
+    width:100%;
+    margin:auto;
+    display:flex;
+    flex-flow:row wrap;
+}
+
+body {
+    background:#e9e9e9;
+}
+
+header {
+    width:100% ;
+    display: flex;
+    align-items:center;
+    flex-direction:row;
+    flex-wrap:wrap;
+}
+
+.logo{
+    background: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 110px;
+}
+
+header .logo img {
+    margin-left: 10px;
+    width:50px;
+    vertical-align: top;
+}
+
+header .logo a {
+    font-size:30px;
+    padding-left: 10px;
+    color:#fff;
+    text-decoration: none;
+    line-height:50px;
+}
+.imagen{
+    padding-left: 1300px;
+}
+
+#contenido{
+    background: #eb873d;
+    height: 860px;
+    width: 330px;
+    float: left;
+
+}
+
+.caja{
+    color: white;
+    padding-top: 35px;
+    padding-left: 60px;
+    font-size: 25px;
+
+}
+
+#dashboard{
+    background: white;
+    height: 860px;
+    width: 1550px;
+
+}
+
+.caja1 {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 1500px;
+    height: 100px;
+
+}
+
+.caja2 {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 350px;
+    height: 150px;
+    float: left;
+}
+
+.caja3 {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 350px;
+    height: 150px;
+    float: left;
+}
+
+.caja4 {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 350px;
+    height: 150px;
+    float: left;
+}
+
+.caja5 {
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 385px;
+    height: 150px;
+}
+
+.caja6 {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 620px;
+    height: 200px;
+    float: left;
+
+}
+
+.caja7 {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 850px;
+    height: 200px;
+}
+.caja8 {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 1050px;
+    height: 200px;
+    float: left;
+}
+.caja9 {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 420px;
+    height: 200px;
+}
